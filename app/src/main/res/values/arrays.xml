@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="route_types">
+        <item>Обычный маршрут</item>
+        <item>Оптимизированный маршрут</item>
+    </string-array>
+</resources>
